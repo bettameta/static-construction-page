@@ -1,0 +1,15 @@
+/*       BASE STYLES      */
+/*------- BODY ---------*/
+body{
+    background: url('../img/jimmy.png') no-repeat;
+    background-size: cover;
+    height: 900px;
+    
+}
+
+body h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    padding: 40px;
+
+}
